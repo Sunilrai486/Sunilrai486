@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on .Net and NodeJs projects.
-- 🌱 I’m currently learning Full-Stack .Net Core development with Angular.
+- 🌱 I’m currently learning Full-Stack NodeJS development with Angular & Postgres.
 - 👯 I’m looking to collaborate on new interesting projects.
 - 🤔 I’m looking for help with Architecting and Developing microservices.
 - 💬 Ask me about anything related to .Net and NodeJs.

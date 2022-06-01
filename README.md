@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on .Net and NodeJs projects.
 - 🌱 I’m currently learning Full-Stack NodeJS development with Angular & Postgres.
-- 🎯 2022 Goals : Be able to develop Full-Stack applications using cloud services. (Stack : NodeJS, ExpressJs, Angular, Postgres, Github, Docker, Digital Ocean)
+- 🎯 2022 Goals : Be able to develop Full-Stack applications using cloud services. (Stack : NodeJS, ExpressJs, Angular, PrimeNG, Capacitor, PostgreSQL, Github, Docker, Digital Ocean)
 - 📫 How to reach me: Linkedin.
 - 😄 Pronouns: He/Him
 

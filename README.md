@@ -7,4 +7,5 @@
 - 😄 Pronouns: He/Him
 
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.readme&left_color=green&right_color=red)
 

@@ -2,11 +2,11 @@
 
 ### Hi there 👋, I'm Sunil Rai.
 
-- 🔭 I’m currently working on .Net and Node.js projects.
-- 🌱 I’m currently learning Full-Stack Node.js development with Angular & Postgres.
+- 💻 I’m currently working on .Net and Node.js projects.
+- 📖 I’m currently learning Full-Stack Node.js development with Angular & PostgreSQL database.
 - 🎯 2022 Goals : Be able to develop Full-Stack applications with mircoservices architecture using cloud services. (Stack : Node.js, Express.js, Angular, PrimeNG, HTML5, CSS3, Capacitor, PostgreSQL, Github, Docker, Kubernetes, Digital Ocean)
-- 📫 How to reach me: Linkedin.
-- 😄 Pronouns: He/Him
+- 📧 How to reach me: LinkedIn.
+- 😄 Pronouns: He/Him(♂️)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio" width="32px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][Visual Studio]

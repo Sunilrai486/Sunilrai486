@@ -1,14 +1,18 @@
 ![profile views](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.readme&left_color=green&right_color=red)
 
-### Hi there 👋, I'm Sunil Rai.
+### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
-- 💻 I’m currently working on .Net and Node.js projects.
-- 📖 I’m currently learning Full-Stack Node.js development with Angular & PostgreSQL database.
-- 🎯 2022 Goals : Be able to develop Full-Stack applications with mircoservices architecture using cloud services. (Stack : Node.js, Express.js, Angular, PrimeNG, HTML5, CSS3, Capacitor, PostgreSQL, Github, Docker, Kubernetes, Digital Ocean)
+- 📖 I'm a student pursuing an education in Artificial Intelligence and Machine Learning. I'm passionate about exploring the depths of AI and its endless possibilities. I'm always on the lookout for challenging projects and new avenues to expand my skillset.
+- 💻 Currently, I'm working on traffic sign recognition and medical chatbot system. Through these projects, I'm learning various tools, techniques, and libraries in the field of AI and ML. I believe that learning is a continuous process, and I strive to upgrade my skills regularly.
+- 🎯 2023 Goals : Be able to develop and deploy advanced AI/ML applications using cloud services.
 - 📧 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him(♂️)
 
+### Thank you for visiting my profile, and I hope to connect with you soon!
+
 ### Languages and Tools:
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+[<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][PyCharm]
 [<img align="left" alt="Visual Studio" width="32px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][Visual Studio]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
 [<img align="left" alt=".Net" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][.Net]

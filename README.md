@@ -31,6 +31,8 @@
 [<img align="left" alt="Windows 10" width="32px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][Windows 10]
 [<img align="center" alt="Jenkins" width="32px" src="https://www.jenkins.io/sites/default/files/jenkins_logo.png" />][Jenkins]
 
+[Python]: https://www.python.org/ 
+[PyCharm]: https://www.jetbrains.com/pycharm/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [Visual Studio Code]: https://github.com/microsoft/vscode
 [.Net]: https://github.com/dotnet

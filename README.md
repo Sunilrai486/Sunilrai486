@@ -1,20 +1,26 @@
-![profile views](https://visitor-badge.glitch.me/badge?page_id=sunilrai486.readme&left_color=green&right_color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=sunilrai486&label=Profile%20views&left_color=green&right_color=red&style=flat)
 
 ### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
-- 📖 I'm a student pursuing an education in Artificial Intelligence and Machine Learning. I'm passionate about exploring the depths of AI and its endless possibilities. I'm always on the lookout for challenging projects and new avenues to expand my skillset.
-- 💻 Currently, I'm working on Video Summarization application. Through this projects, I'm learning various tools, techniques, and libraries in the field of Python and NLP. I believe that learning is a continuous process, and I strive to upgrade my skills regularly.
-- 🎯 2023 Goals : Be able to develop and deploy advanced AI/ML applications using cloud services.
+- 📖 I'm a student pursuing an education in Artificial Intelligence and Machine Learning. I'm passionate about exploring the depths of AI and its endless possibilities. I always seek challenging projects and new avenues to expand my skill set.
+- 💻 Currently, I'm working on the Video Summarization application. Through these projects, I'm learning various tools, techniques, and libraries in Python and NLP. Learning is a continuous process, and I strive to upgrade my skills regularly.
+- 🎯 2023 Goals: Be able to develop and deploy advanced AI/ML applications using cloud services.
 - 📧 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him(♂️)
 
 ### Thank you for visiting my profile, and I hope to connect with you soon!
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="PyCharm" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />][PyCharm]
 [<img align="left" alt="Visual Studio" width="32px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />][Visual Studio]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
+[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+[<img align="left" alt="Numpy" width="32px" src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" />][Numpy]
+[<img align="left" alt="Pandas" width="32px" src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" />][Pandas]
+[<img align="left" alt="scikit-learn" width="32px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][scikit-learn]
+[<img align="left" alt="seaborn" width="32px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />][seaborn]
+[<img align="left" alt="Matplotlib" width="32px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />][Matplotlib]
+[<img align="left" alt="NLTK" width="32px" src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" />][NLTK]
 [<img align="left" alt=".Net" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />][.Net]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node.js]
 [<img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][C#]
@@ -31,10 +37,17 @@
 [<img align="left" alt="Windows 10" width="32px" src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" />][Windows 10]
 [<img align="center" alt="Jenkins" width="32px" src="https://www.jenkins.io/sites/default/files/jenkins_logo.png" />][Jenkins]
 
-[Python]: https://www.python.org/ 
+
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [Visual Studio]: https://visualstudio.microsoft.com/
 [Visual Studio Code]: https://github.com/microsoft/vscode
+[Python]: https://www.python.org/ 
+[Numpy]: https://numpy.org/
+[Pandas]: https://pandas.pydata.org/
+[scikit-learn]: https://scikit-learn.org/
+[seaborn]: https://seaborn.pydata.org/
+[Matplotlib]: https://matplotlib.org/
+[NLTK]: https://www.nltk.org/
 [.Net]: https://github.com/dotnet
 [Node.js]: https://github.com/nodejs/node
 [C#]: https://github.com/dotnet/csharplang

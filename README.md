@@ -68,7 +68,7 @@
 </br>
 
 <div>
-  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
+  <img align = "right" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
 </div>
 <div>
   <img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />

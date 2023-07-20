@@ -65,7 +65,7 @@
 [Linux]: https://github.com/torvalds/linux
 [Windows 10]: https://www.microsoft.com/en-us/software-download/windows10
 [Jenkins]: https://github.com/jenkinsci/jenkins
-<br />
-
+<br/>
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical) 
+<br/>
 ![Sunil's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical)

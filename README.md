@@ -65,9 +65,11 @@
 [Linux]: https://github.com/torvalds/linux
 [Windows 10]: https://www.microsoft.com/en-us/software-download/windows10
 [Jenkins]: https://github.com/jenkinsci/jenkins
+</br>
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
+  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
 </div>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />
+  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />
 </div>

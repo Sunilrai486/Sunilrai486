@@ -50,7 +50,6 @@
 [PostgreSQL]: https://github.com/postgres/postgres
 [Bootstrap]: https://github.com/twbs/bootstrap
 [HTML5]: https://html.com/html5/
-</br>
 
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS3]
 [<img align="left" alt="Nginx" width="32px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" />][Nginx]
@@ -66,10 +65,10 @@
 [Windows 10]: https://www.microsoft.com/en-us/software-download/windows10
 [Jenkins]: https://github.com/jenkinsci/jenkins
 </br>
-<hr>
+
 <div>
   <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
 </div>
 <div>
-  <img align = "right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />
+  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />
 </div>

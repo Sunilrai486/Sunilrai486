@@ -3,7 +3,7 @@
 ### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
 - 📖 I'm a student pursuing an education in Artificial Intelligence and Machine Learning. I'm passionate about exploring the depths of AI and its endless possibilities. I always seek challenging projects and new avenues to expand my skill set.
-- 💻 Currently, I'm working on the Video Summarization application. Through these projects, I'm learning various tools, techniques, and libraries in Python and NLP. Learning is a continuous process, and I strive to upgrade my skills regularly.
+- 💻 Currently, I'm working on the Pair-Programming simulator powered by LLMs. Through this project, I'm learning various tools, techniques, and libraries in Python, LLMs, React, Node.js. Learning is a continuous process, and I strive to upgrade my skills regularly.
 - 🎯 2023 Goals: Be able to develop and deploy advanced AI/ML applications using cloud services.
 - 📧 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him(♂️)

@@ -3,8 +3,8 @@
 ### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
 - 📖 I'm a student pursuing an education in Artificial Intelligence and Machine Learning. I'm passionate about exploring the depths of AI and its endless possibilities. I always seek challenging projects and new avenues to expand my skill set.
-- 💻 Currently, I'm working on the Pair-Programming simulator powered by LLMs. Through this project, I'm learning various tools, techniques, and libraries in Python, LLMs, React, Node.js. Learning is a continuous process, and I strive to upgrade my skills regularly.
-- 🎯 2024 Goals: Be able to develop and deploy advanced AI/ML applications using cloud services.
+- 💻 Currently, I'm working on a Fitness injury prevention application called GymGuard. Through this project, I'm learning various tools, techniques, and libraries in Python, Machine Learning, MediaPipe, OpenCV, etc. Learning is a continuous process, and I strive to upgrade my skills regularly.
+- 🎯 2024 Goals: Be able to develop and deploy advanced DL applications using cloud services.
 - 📧 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him(♂️)
 

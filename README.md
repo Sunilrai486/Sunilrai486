@@ -54,13 +54,14 @@
 [CSS3]: https://www.w3.org/Style/CSS/
 </br>
 
-### AI tools
+### AI/ML tools
 [<img align="left" alt="Numpy" width="32px" src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" />][Numpy]
 [<img align="left" alt="Pandas" width="32px" src="https://avatars.githubusercontent.com/u/21206976?s=280&v=4" />][Pandas]
 [<img align="left" alt="scikit-learn" width="32px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][scikit-learn]
 [<img align="left" alt="seaborn" width="32px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />][seaborn]
 [<img align="left" alt="Matplotlib" width="32px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />][Matplotlib]
 [<img align="left" alt="NLTK" width="32px" src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" />][NLTK]
+[<img align="left" alt="TensorFlow" width="32px" src="https://avatars.githubusercontent.com/u/15658638?s=48&v=4" />][TensorFlow]
 
 [Numpy]: https://numpy.org/
 [Pandas]: https://pandas.pydata.org/
@@ -68,6 +69,7 @@
 [seaborn]: https://seaborn.pydata.org/
 [Matplotlib]: https://matplotlib.org/
 [NLTK]: https://www.nltk.org/
+[TensorFlow]: https://tensorflow.org/
 </br>
 
 ### Others

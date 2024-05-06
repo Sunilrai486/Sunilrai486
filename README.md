@@ -87,8 +87,8 @@
 </br>
 
 <div>
-  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical" /> 
+  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical&card_width=350" /> 
 </div>
 <div>
-  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical" />
+  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&show_icons=true&theme=radical&card_width=350" />
 </div>

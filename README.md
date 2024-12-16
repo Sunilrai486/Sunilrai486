@@ -14,5 +14,5 @@
   <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical&card_width=350" /> 
 </div>
 <div>
-  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com?user=sunilrai486&theme=radical&card_width=355" />
+  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&theme=radical" />
 </div>

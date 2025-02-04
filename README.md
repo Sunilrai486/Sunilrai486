@@ -3,8 +3,8 @@
 ### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
 - 📖 I'm a Software Engineer with Artificial Intelligence and Machine Learning Expertise. I'm passionate about exploring the depths of AI and its endless possibilities. I always seek challenging projects and new avenues to expand my skill set.
-- 💻 Currently, I'm building applications using .NET & Azure with AI/ML implementations. I'm learning various advanced tools, techniques, features, and libraries in .NET & Azure. Learning is a continuous process, and I strive to upgrade my skills regularly.
-- 🎯 2024 Goals: Be able to develop advanced .NET applications with AI/ML features and deploy using Cloud services.
+- 💻 Currently, I'm building applications using .NET & Azure with AI/ML implementations. I'm learning advanced tools, techniques, features, and libraries in .NET & Azure. Learning is a continuous process, and I strive to upgrade my skills regularly.
+- 🎯 2025 Goals: Integrate AI and Blockchain in the .NET project, and deploy using Azure Cloud services.
 - 📧 How to reach me: LinkedIn.
 - 😄 Pronouns: He/Him(♂️)
 

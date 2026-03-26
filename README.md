@@ -11,8 +11,7 @@
 ### Thank you for visiting my profile, and I hope to connect with you soon!
 
 <div>
-  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sunilrai486&show_icons=true&theme=radical&card_width=350" /> 
-</div>
+  ![Stats](./profile/stats.svg)</div>
 <div>
   <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&theme=radical" />
 </div>

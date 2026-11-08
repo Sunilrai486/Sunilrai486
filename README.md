@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=sunilrai486&label=Profile%20views&left_color=green&right_color=red&style=flat)
-
 ### Hi there👋, welcome to my GitHub profile!, I'm Sunil Rai.
 
 - 📖 I'm a Software Engineer with Artificial Intelligence and Machine Learning Expertise. I'm passionate about exploring the depths of AI and its endless possibilities. I always seek challenging projects and new avenues to expand my skill set.

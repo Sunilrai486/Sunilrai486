@@ -9,8 +9,5 @@
 ### Thank you for visiting my profile, and I hope to connect with you soon!
 
 <div>
-  <img align = "left" src="./profile/stats.svg" />
-</div>
-<div>
   <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilrai486&theme=radical" />
 </div>
